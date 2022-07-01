@@ -1,4 +1,4 @@
- # Tipos de Sistemas Gestores de Bases de Datos 
+ # Tipos de Sistemas Gestores de Bases de Datos #
 
  ## Diferencias entre el modelo lógico y el conceptual
 
@@ -8,7 +8,7 @@ El modelo lógico está más cerca del modelo físico, el que utiliza internamen
 El modelo conceptual es el más cercano al usuario, el lógico es el encargado de establecer el paso entre
 el modelo conceptual y el modelo físico del sistema.
 
-## Tipos de Sistemas Gestores de Bases de Datos
+## **Tipos de Sistemas Gestores de Bases de Datos**
 Algunos ejemplos de modelos conceptuales son:
 
 -Modelo Entidad Relación
