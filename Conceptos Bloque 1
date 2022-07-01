@@ -1,5 +1,7 @@
- # Tipos de Sistemas Gestores de Bases de Datos   
-## Diferencias entre el modelo lógico y el conceptual
+ # Tipos de Sistemas Gestores de Bases de Datos 
+
+ ## Diferencias entre el modelo lógico y el conceptual
+
 El modelo conceptual es independiente del DBMS que se vaya a utilizar. El lógico depende de un tipo de
 SGBD en particular.
 El modelo lógico está más cerca del modelo físico, el que utiliza internamente el ordenador.
