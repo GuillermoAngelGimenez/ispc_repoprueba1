@@ -66,7 +66,7 @@ relacionales la posibilidad de almacenar procedimientos de usuario, triggers, ti
 usuario, consultas recursivas, bases de datos OLAP, tipos LOB,...
 Las últimas versiones de la mayoría de las clásicas grandes bases de datos relacionales (Oracle, SQL
 Server, Informix, ...) son objeto relacionales.
-###Bases de datos NoSQL.
+### Bases de datos NoSQL.
 Bajo este nombre se agrupan las bases de datos (con arquitecturas muy diversas) pensadas para grabar
 los datos de manera veloz para así poder atender a miles y miles de peticiones. Es decir, es el modelo
 de las bases de datos que se utilizan en los grandes servicios de Internet (como twitter, Facebook,
